@@ -1,11 +1,12 @@
 # Innovations and Opportunities<br>in Liberal Arts Computing Education
 
-A [SIGCSE 2023](https://sigcse2023.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
+A [SIGCSE 2024](https://sigcse2024.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
 
 This event builds on directions and priorities identified at our prior SIGCSE events:
-- [SIGCSE 2021 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/)
 - [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/)
+- [SIGCSE 2021 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/)
 - [SIGCSE 2022 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2022-Affiliated-Event/)
+- [SIGCSE 2023 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2023-Affiliated-Event/)
 
 This event will include a morning session focused on topics covering the breadth of opportunities and challenges faced by liberal arts computing educators. An afternoon session will focus on the ACM/IEEE/AAAI CS2023 draft curriculum model. Members of the Committee will lead a workshop based on a liberal-arts focused process they have developed for curriculum review and revision that balances institutional identity with external guidelines for CS curricula. Feedback from this session will inform both the process under development and the Committee’s advocacy efforts with the ACM/IEEE/AAAI curriculum task force. Throughout the event, sessions will give participants an opportunity to learn about work already taking place within the liberal arts computing community as well as to engage in Q&A and breakout discussions.
 
@@ -24,17 +25,17 @@ All attendees, whether making a submission or not, must also be registered for t
 
 ## Important Dates
 
-| Category                           | Date
-|------------------------------------|-----------------------
-| Submissions Due                    | January 17, 2023
-| Notifications                      | January 27, 2023
-| In-Person Event at SIGCSE          | Wednesday March 15, 2023, 9:00am-5:00pm EST
+| Category                           | Date|
+|------------------------------------|-----------------------|
+| Submissions Due                    | January 17, 2024|
+| Notifications                      | January 27, 2024 |
+| In-Person Event at SIGCSE          | Wednesday March 20, 2024, 9:00am-5:00pm PST |
 
 ## Call for Participation
 
 The program committee invites submissions following the provided templates indicating the information requested in a submission. All submissions may be made through email or GitHub pull request following the process described below. Submissions, and questions about submissions, can be sent to Jakob Barnard (<Jakob.Barnard@uj.edu>).
 
-1. __Curricular Innovation Submissions:​__ A brief (1 to 2-page) description of a curricular innovation that reflects a specifically liberal arts philosophy. This may include full curriculum models, individual courses, outreach programs, co-curricular programs, or other interdisciplinary or liberal-arts focused educational initiatives. Please see the template and example below. 
+1. __Curricular Innovation Submissions:__ A brief (1 to 2-page) description of a curricular innovation that reflects a specifically liberal arts philosophy. This may include full curriculum models, individual courses, outreach programs, co-curricular programs, or other interdisciplinary or liberal-arts focused educational initiatives. Please see the template and example below. 
 
    * Submission Templates:
      * Markdown: [Curricular Innovation Template](CurricularInnovationTemplate.md)
@@ -88,7 +89,6 @@ The afternoon session will be run as a workshop focused on CS2023 and how libera
 - Grant Braught, Dickinson College
 - Janet Davis, Whitman College
 - Amanda Holland-Minkley, Washington & Jefferson College
-- Mario Nakazawa, Berea College
 - Andrea Tartaro, Furman University
 - Jim Teresco, Siena College
 
