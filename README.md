@@ -1,5 +1,5 @@
 # SIGCSE2024-Affiliated-Event
-Materials and participant submissions for the Committee's SIGCSE 2023 Affiliated Event.
+Materials and participant submissions for the Committee's SIGCSE 2043 Affiliated Event.
 
 Please visit the [2024 Affiliated Event Home Page](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/) for the most up to date information.
 ___
