@@ -16,7 +16,7 @@ The program committee invites submissions for presentations on any topic in comp
 
 Submissions should follow the templates provided below. All submissions will be lightly screened by the program committee for suitability. All suitable submissions will be made available to the community through the Committee site and all authors of accepted submissions will receive an invitation to participate in the event.
 
-We also welcome those that would like to attend and participate in this event, but do not have a submission for one of the above sessions. Registration is open via the following Google Form: https://docs.google.com/forms/d/e/1FAIpQLSehv-lAcI1lOVjnRHVNo9nwknWQj6fb_apq_Re_2WZe-PvoZg/viewform?usp=sf_link
+We also welcome those that would like to attend and participate in this event, but do not have a submission for one of the above sessions. Registration is open via the following [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSehv-lAcI1lOVjnRHVNo9nwknWQj6fb_apq_Re_2WZe-PvoZg/viewform?usp=sf_link): https://docs.google.com/forms/d/e/1FAIpQLSehv-lAcI1lOVjnRHVNo9nwknWQj6fb_apq_Re_2WZe-PvoZg/viewform?usp=sf_link
 
 We anticipate being able to invite everyone who expresses interest. However, in the unlikely event that our venue cannot accommodate everyone, attendees will be selected giving first priority to those submitting to one of the sessions and then by reviewing attendance applications to achieve representation from a broad range of institutions. All interested faculty and students are welcome.
 
@@ -37,12 +37,12 @@ All attendees, whether making a submission or not, must also be registered for t
 1. * The program committee invites submissions following the provided templates indicating the information requested in a submission. All submissions may be made through email or GitHub pull request following the process described below. Submissions, and questions about submissions, can be sent to Jakob Barnard ([Jakob.Barnard@uj.edu](mailto:Jakob.Barnard@uj.edu)) .
      1. **Curricular Innovation Submissions:** A brief (1 to 2-page) description of a curricular innovation that reflects a specifically liberal arts philosophy. This may include full curriculum models, individual courses, outreach programs, co-curricular programs, or other interdisciplinary or liberal-arts focused educational initiatives. Please see the template and example below. 
         - Submission Templates: 
-          - Markdown: https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/CurricularInnovationTemplate.html
-          - MS Word: https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/CurricularInnovationTemplate.docx
+          - [Markdown Instructions](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/CurricularInnovationTemplate.html)
+          - [MS Word](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/CurricularInnovationTemplate.docx)
      2. **Opportunities and Challenges Submissions:** A brief (1 to 2-page) exploration of an opportunity or challenge in computing education that is either unique to the liberal arts context or where the liberal arts context provides a usefully distinctive perspective. These need not be exhaustively researched explorations but submissions should illustrate how the presenter would be able to bring context or knowledge beyond first-hand, anecdotal experience to the conversation. 
         - Submission Templates:
-          - Markdown: https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/OpportunitiesChallengesTemplate.html
-          - MS Word: https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/OpportunitesChallengesTemplate.docx
+          - [Markdown Submission Template](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/OpportunitiesChallengesTemplate.html)
+          - [MS Word Submission Template](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/OpportunitesChallengesTemplate.docx)
 
 ## Submission Process
 
