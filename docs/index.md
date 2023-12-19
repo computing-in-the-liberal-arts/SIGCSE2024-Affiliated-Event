@@ -15,24 +15,26 @@ This event will incorporate material presented and refined at the various region
 
 ## Event Information
 
-- Registration Link - TBD
+- [Registration Link](https://docs.google.com/forms/d/e/1FAIpQLSehv-lAcI1lOVjnRHVNo9nwknWQj6fb_apq_Re_2WZe-PvoZg/viewform?usp=sf_link)
   - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and using the link above. There is no additional fee for this event.
 
-- Detailed Event Agenda - TBD
-- Resulting Materials - TBD
+- Detailed Event Agenda
+    - A full event agenda will be posted after submissions have been reviewed. You can review the event agendas for our recent events in 2022 and 2023, linked above, for models of a typical event agenda for this affiliated event.
+
+- Resulting Materials
   - Submissions, presentations and session notes from the event.
 
 - [SIGCSE 2024](https://sigcse2024.sigcse.org)
 - [Event Proposal](2024-event-proposal.pdf)
-- Call for Participation - TBD
+- [Call for Participation](2024CallForParticipation.md)
     - Submissions are invited on effective innovations in liberal arts computing curricula and on explorations of unique opportunities or challenges faced by the liberal arts computing education community. Details about submissions requirements and process are available in the Call for Participation.
 
 ## Important Dates
 
 | Category                           | Date|
 |------------------------------------|-----------------------|
-| Submissions Due                    | January 17, 2024 |
-| Notifications                      | January 27, 2024 |
+| Submissions Due                    | January 22, 2024 |
+| Notifications                      | January 30, 2024 |
 | In-Person Event at SIGCSE          | Wednesday March 20, 2024, 9:00am-5:00pm PST |
 
 ## Event Agenda
@@ -55,7 +57,7 @@ A more detailed event agenda will be posted once the event is closer. See the [E
 - Grant Braught, Dickinson College
 - Janet Davis, Whitman College
 - Amanda Holland-Minkley, Washington & Jefferson College
-- Karl Schmitt, Trinity Christian College
+- Mario Nakazawa, Berea College
 - Andrea Tartaro, Furman University
 - Jim Teresco, Siena College
 
