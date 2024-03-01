@@ -44,7 +44,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - Grant Braught, Dickinson College
 - Janet Davis, Whitman College
 - Amanda Holland-Minkley, Washington & Jefferson College
-- Mario Nakazawa, Berea College
+- Karl Schmitt, Trinity College
 - Andrea Tartaro, Furman University
 - Jim Teresco, Siena College
 
