@@ -4,9 +4,9 @@ An affiliated event at [SIGCSE 2024](https://sigcse2024.sigcse.org) organized by
 
 ## Event Agenda
 
-- Wednesday, March 15th, 2023, 9:00am - 5:00pm
-- Metro Toronto Convention Centre
-- Room 701A
+- Wednesday, March 20th, 2023, 9:00am - 5:00pm
+- Oregon Convention Center
+- Rooms B115-116
 
 | Time        | Activity|
 |-------------|----------|
