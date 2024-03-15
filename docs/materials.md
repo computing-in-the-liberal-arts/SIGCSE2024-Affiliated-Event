@@ -5,13 +5,13 @@ This page contains links to materials from the [SIGCSE 2024 Affiliated event](ht
 ## Submitted Materials
 
   * *A Minor in Artificial Intelligence Using Liberal Arts Courses*, Brian O’Neill, Quinnipiac University
-    * Files
+    * [Files](https://github.com/computing-in-the-liberal-arts/SIGCSE2024-Affiliated-Event/tree/main/docs/submissions/oneill)
 
   * *Reports from Students and Instructors on a New Synthesized Pedagogical Model for CS1 in Python*, Georgiana Haldeman and Margery Gardner, Colgate University
-    * Files
+    * [Files](https://github.com/computing-in-the-liberal-arts/SIGCSE2024-Affiliated-Event/tree/main/docs/submissions/haldeman-gardner)
 
   * *Challenges and Opportunities in Collaborating on Instructional Materials*, Sebastian Dziallas and Osvaldo Jiménez, University of the Pacific
-    * Files
+    * [Files](https://github.com/computing-in-the-liberal-arts/SIGCSE2024-Affiliated-Event/tree/main/docs/submissions/dziallas-jimenez)
 
 
 
